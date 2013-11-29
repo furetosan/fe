@@ -1,4 +1,8 @@
 body {
+  background-image:url('../IMG_0100.JPG');
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center;
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
